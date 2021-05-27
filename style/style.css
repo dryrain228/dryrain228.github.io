@@ -8,8 +8,6 @@ body{
 #imgright{
 	margin: 0px 8px 0 16px;
     float: right;
-	background-color: var(--color-primary--FF);
-    border: 2px solid var(--color-primary--FF);
     user-select: none;
 }
 #header{
@@ -200,6 +198,9 @@ p.float span.caption.gray {
 		font-size:12px;
 	}
 	#img{
+		float:none;
+	}
+	#imgright{
 		float:none;
 	}
 }
