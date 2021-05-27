@@ -1,0 +1,214 @@
+body{
+	margin:0px;	
+}
+#img{
+	float:left;
+	margin-right:1em;
+}
+#imgright{
+	margin: 0px 8px 0 16px;
+    float: right;
+	background-color: var(--color-primary--FF);
+    border: 2px solid var(--color-primary--FF);
+    user-select: none;
+}
+#header{
+	background-image: url(IMAGES/hat2.jpeg);
+	overflow: hidden;
+	height: 300px;
+	color:white;
+	font-family: Tahoma;
+	font-size:28px;
+	justify-content:center;
+	display:flex;
+	align-items:center;
+	width:100%;
+}
+
+.sns{
+	text-align: center;
+	line-height: 1.6;
+	font-family:AlegreyaSans-MediumItalic;
+	border-bottom: 2px solid gray;
+	padding-bottom: 5px;
+}
+.snscont{
+	font-size:16px;
+	font-family:AlegreyaSans-MediumItalic;
+	line-height: 1.6;
+	
+}
+.snssrc{
+	padding:0 0em 0 1em;
+	display:flex;
+	float:right;
+}
+.laser{
+    line-height: 1.6;
+	font-family:AlegreyaSans-MediumItalic;
+	font-size:16px;
+	float:center;
+	padding:0 1em 0 1em;
+	margin:0;
+}
+.laser ul{
+	margin:0;
+}
+.menu{	
+	list-style-type:none;
+	height:65px;
+	display:flex;
+	width:100%;
+	align-items:center;
+	margin:0;
+	padding:0;
+}
+.menu_div{
+	background-color: #00040a;
+	justify-content:center;
+	display:flex;
+	width:100%;
+	align-items:center;
+	margin:0;
+	padding:0;
+	position:sticky;
+	top:0em;
+}
+
+
+.menu li{	
+	text-align:center;
+	width:20%;
+	font-family:sans-serif;
+	font-size:16px;
+	padding: 0;
+	margin:0;
+}
+.menu_link li{
+	width:100%;
+	height:100%;
+	text-align:center;
+	align-items:center;
+	display: flex;
+    justify-content: center;
+		padding: 0;
+	margin:0;
+}
+.menu_link:hover {
+	background-color:#999;
+}
+a{
+	height:100%;	
+	text-decoration:none;
+	color:white;
+	width:20%;
+	
+}
+.quick{
+	font-family:AlegreyaSans-MediumItalic;
+	text-transform:uppercase;
+	border-bottom: 1px solid #7777;
+	padding-bottom: 5px;
+	font-weight: normal;
+	
+}
+.content{
+	margin:0;
+	font-family:AlegreyaSans-MediumItalic;
+	padding:0 1em 0 1em;
+	font-size:16px;
+	line-height:1.6em;
+	text-align:justify;
+	
+}
+.container{
+	display:flex;
+	font-family:AlegreyaSans-MediumItalic;
+	font-size:16px;
+	line-height: 1.6;
+	margin:0;
+	width:100%;
+}
+.container-little{
+	display:flex;
+	width:100%;
+	
+	font-family:AlegreyaSans-MediumItalic;
+	font-size:16px;
+	line-height: 1.6;
+
+}
+.little-block{
+	
+	font-family:AlegreyaSans-MediumItalic;
+	margin:10px;
+	
+	font-size:16px;
+	display:flex;
+	
+	text-align:justify:
+	
+}
+.photo{
+	
+	display:flex;
+	justify-content:space-around;
+	flex-direction:column;
+	justify-content:left;
+	margin:center; 
+}
+.imgclass{
+	width:90%;
+	margin:10px;
+}
+.photo p{
+	text-align:center;
+	padding:0 1em 0 1em;
+	
+	margin:0;
+}
+footer {
+    position: bottom; 
+    left: 0; bottom: 0; 
+    padding: 10px; 
+    background: black; 
+    color: #fff; 
+     
+}
+.image{
+	text-align:center;
+	margin:auto;
+	
+}
+p.float span.caption.gray {
+    display: block;
+    width: 100%;
+    text-align: center;
+    font-size: 16px;
+}
+.gray {
+    color: #777777 !important;
+}
+
+@media (max-width: 611px){
+	.container{
+		flex-direction:column;
+	}
+	.container-little{
+		flex-direction:column;
+	}
+	.snssrc{
+		padding:0;
+	}
+	.menu li{
+		font-size:12px;
+	}
+	#img{
+		float:none;
+	}
+}
+@font-face{
+	font-family: AlegreyaSans-MediumItalic;
+	src:url(fonts/AlegreyaSans-Regular.ttf);
+
+}

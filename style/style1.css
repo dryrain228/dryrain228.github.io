@@ -1,0 +1,238 @@
+#mainContainer 
+{
+	background: #A0A283;
+	width: 60%;
+	position: relative;
+	left: 20%;
+	margin-top: 20px;
+}
+
+body 
+{
+	background: #EFF9D2;
+}
+
+hr {
+  height: 2px;
+  border: 0;
+  background-color: white;
+}
+
+.Times
+{
+	font-size: 100%; 
+    font-family: Times ; 
+	text-align: left;
+	text-indent: 20px;
+}
+
+.Impact
+{
+	font-size: 100%; 
+    font-family: Impact ; 
+	text-align: left;
+	text-indent: 20px;
+}
+
+.Bookman
+{
+	font-size: 100%; 
+    font-family: Bookman ; 
+	text-align: left;
+	text-indent: 20px;
+}
+
+.Garamond
+{
+	font-size: 100%; 
+    font-family: Garamond ; 
+	text-align: left;
+	text-indent: 20px;
+}
+
+.Palatino
+{
+	font-size: 100%; 
+    font-family: Palatino; 
+	text-align: left;
+	text-indent: 20px;
+}
+
+.Georgia
+{
+	font-size: 100%; 
+    font-family: Georgia ; 
+	text-align: left;
+	text-indent: 20px;
+}
+
+.Verdana
+{
+	font-size: 100%; 
+    font-family: Verdana; 
+	text-align: left;
+	text-indent: 20px;
+}
+
+.Courier
+{
+	font-size: 100%; 
+    font-family: Courier ; 
+	text-align: left;
+	text-indent: 20px;
+}
+
+.Courier New
+{
+	font-size: 100%; 
+    font-family: Courier New ; 
+	text-align: left;
+	text-indent: 20px;
+}
+
+.Times New Roman
+{
+	font-size: 100%; 
+    font-family: "Times New Roman" ; 
+	text-align: left;
+	text-indent: 20px;
+}
+
+.Helvetica
+{
+	font-size: 100%; 
+    font-family: Helvetica ; 
+	text-align: left;
+	text-indent: 20px;
+}
+
+.Arial
+{
+	font-size: 100%; 
+    font-family: Arial; 
+	text-align: left;
+	text-indent: 20px;
+}
+
+.serif 
+{
+	font-size: 100%; 
+    font-family: serif  ; 
+	text-align: left;
+	text-indent: 20px;
+}
+
+.sans-serif 
+{
+	font-size: 100%; 
+    font-family: sans-serif  ; 
+	text-align: left;
+	text-indent: 20px;
+}
+
+.cursive
+{
+	font-size: 100%; 
+    font-family: cursive ; 
+	text-align: left;
+	text-indent: 20px;
+}
+
+.fantasy
+{
+	font-size: 100%; 
+    font-family: fantasy ; 
+	text-align: left;
+	text-indent: 20px;
+}
+
+.Arial Bold Italic
+{
+	font-size: 100%; 
+    font-family: "Arial Bold Italic"  ; 
+	text-align: left;
+	text-indent: 20px;
+}
+
+.monospace 
+{
+	font-size: 100%; 
+    font-family: monospace  ; 
+	text-align: left;
+	text-indent: 20px;
+}
+
+.Arial Italic 
+{
+	font-size: 100%; 
+    font-family: Arial-Italic  ; 
+	text-align: left;
+	text-indent: 20px;
+}
+
+.Tahoma
+{
+	font-size: 100%; 
+    font-family: Tahoma; 
+	text-align: left;
+	text-indent: 20px;
+}
+
+.Script
+{
+	font-size: 100%; 
+    font-family: Script ; 
+	text-align: left;
+	text-indent: 20px;
+}
+
+.Modern
+{
+	font-size: 100%; 
+    font-family: Modern  ; 
+	text-align: left;
+	text-indent: 20px;
+}
+
+.Gautami 
+{
+	font-size: 100%; 
+    font-family: Gautami  ; 
+	text-align: left;
+	text-indent: 20px;
+}
+
+.Consolas
+{
+	font-size: 100%; 
+    font-family: Consolas ; 
+	text-align: left;
+	text-indent: 20px;
+}
+/**/
+.Liberation
+{
+	font-size: 100%; 
+    font-family: Liberation ; 
+	text-align: left;
+	text-indent: 20px;
+}
+
+.Cambria
+{
+	font-size: 100%; 
+    font-family: Cambria ; 
+	text-align: left;
+	text-indent: 20px;
+}
+
+.Sylfaen
+{
+	font-size: 100%; 
+    font-family: Sylfaen ; 
+	text-align: left;
+	text-indent: 20px;
+}
+
+
+
