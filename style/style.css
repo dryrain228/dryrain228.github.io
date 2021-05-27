@@ -110,7 +110,6 @@ a{
 	border-bottom: 1px solid #7777;
 	padding-bottom: 5px;
 	font-weight: normal;
-	
 }
 .content{
 	margin:0;
@@ -119,7 +118,6 @@ a{
 	font-size:16px;
 	line-height:1.6em;
 	text-align:justify;
-	
 }
 .container{
 	display:flex;
@@ -132,11 +130,9 @@ a{
 .container-little{
 	display:flex;
 	width:100%;
-	
 	font-family:AlegreyaSans-MediumItalic;
 	font-size:16px;
 	line-height: 1.6;
-
 }
 .little-block{
 	
